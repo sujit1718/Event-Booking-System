@@ -1,0 +1,4 @@
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\additionofTwono\additionofTwono\bin\Debug\additionofTwono.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\additionofTwono\additionofTwono\bin\Debug\additionofTwono.pdb
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\additionofTwono\additionofTwono\obj\x86\Debug\additionofTwono.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\additionofTwono\additionofTwono\obj\x86\Debug\additionofTwono.pdb

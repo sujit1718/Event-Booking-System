@@ -1,0 +1,7 @@
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\obj\x86\Debug\Addition1.Form1.resources
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\obj\x86\Debug\Addition1.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\obj\x86\Debug\Addition1.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\bin\Debug\Addition1.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\bin\Debug\Addition1.pdb
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\obj\x86\Debug\Addition1.exe
+c:\users\dell\onedrive\documents\visual studio 2010\Projects\Addition1\Addition1\obj\x86\Debug\Addition1.pdb
